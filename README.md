@@ -1,5 +1,5 @@
 
-# This is a my README 
+# README 
 =======
 News-IT
 =======
